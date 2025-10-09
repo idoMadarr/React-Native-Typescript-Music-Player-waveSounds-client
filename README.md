@@ -1,4 +1,4 @@
-# 🎵 React Native Music Player
+# 🎵 React Native Music Player (WaveSounds)
 
 A **React Native Music Player** app for **iOS & Android**, built with **TypeScript**, featuring a **complex UI**, smooth animations, full navigation, and advanced functionality including **Gmail Authentication** and **Voice2Speak**.
 
